@@ -74,7 +74,7 @@ export default ({ data }) => {
                   like what you <Link to="/resume">see</Link>, let's get
                   in&nbsp;
                   <a
-                    href="mailto:red.five@rebellion.com"
+                    href="mailto:sudara1999@gmail.com"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
